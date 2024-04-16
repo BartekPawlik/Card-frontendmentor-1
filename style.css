@@ -1,0 +1,40 @@
+#card-section {
+  background: #d5e1ef;
+  padding: 85px 27px;
+  display: flex;
+  justify-content: center;
+  font-family: sans-serif;
+}
+#card-section .card-container {
+  max-width: 288px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  border-radius: 14px;
+}
+#card-section .card-container img {
+  max-width: 288px;
+  border-radius: 10px;
+}
+#card-section .description-container {
+  margin-top: 24px;
+}
+#card-section .description-container h4 {
+  margin: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  color: #1F314F;
+  line-height: 25px;
+  font-weight: 700;
+}
+#card-section .description-container p {
+  text-align: center;
+  color: #7D889E;
+  font-size: 0.9rem;
+  padding: 0px 18px;
+  line-height: 17px;
+  margin-bottom: 24px;
+}/*# sourceMappingURL=style.css.map */
